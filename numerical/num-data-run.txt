@@ -1,0 +1,1 @@
+hadoop jar hadoop-streaming-3.3.1.jar -file /home/ubuntu/pythonprogs/mapper.py -mapper /home/ubuntu/pythonprogs/mapper.py -file /home/ubuntu/pythonprogs/reducer.py -reducer /home/ubuntu/pythonprogs/reducer.py -input /input/data.txt -output /output1

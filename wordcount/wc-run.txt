@@ -1,0 +1,1 @@
+hadoop jar hadoop-streaming-3.3.1.jar -file /home/ubuntu/pythonprogs/wcmapper.py -mapper /home/ubuntu/pythonprogs/wcmapper.py -file /home/ubuntu/pythonprogs/wcreducer.py -reducer /home/ubuntu/pythonprogs/wcreducer.py -input /input/gender.txt -output /output
