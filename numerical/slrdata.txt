@@ -1,0 +1,10 @@
+male, 34, 23
+female, 45, 34
+male, 45, 26
+male, 24, 45
+male, 65, 35
+female, 43, 53
+female, 46, 23
+female, 23, 45
+male, 32, 36
+female, 23, 43
